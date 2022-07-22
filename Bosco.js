@@ -1,10 +1,11 @@
 /* 
-Don't change credits🥲🚶
-Sourcecode https://github.com/pepesir/Bosco
+Copyright (C) 2022 pepesir.
+Licensed under the  Apache-2.0 License;
+you may not use this file except in compliance with the License.
 
-Want to recode? yes, it's up to you as long as you don't change the watermark
-Don't sell the SC 😐👌
-*/
+Bosco - pepesir
+*/	
+
 const {
     WAConnection,
 	MessageType,
